@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-Use  analysis, visualization, and statistical skills to retrieve and analyze weather data for a hypothetical travel company, PlanMyTrip.
+Used google map APIs, Openweather API to retrieve and analyze weather data for 500 cities for a hypothetical travel company, PlanMyTrip.
 
 ## Overview of the Analysis
 Plan My Trip is a top travel technology company that specializes in internet related services in the hotel and lodging industry. Jack is the head of analysis for the user interface team. 
